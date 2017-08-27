@@ -8,9 +8,9 @@ Initially, all the required libraries are imported from python using commands im
 
 ### 1.2 TensorFlow Graph:
 Build the TensorFlow graph using the following parameters.
-•	Variables – to optimize for better convolutional network.
-•	Placeholder variables – input data to the graph.
-•	Cost Measure – to optimize the variables.
-•	Mathematical Formulas – for better convolutional network.
-•	An optimization method which updates the variables.
+* Variables – to optimize for better convolutional network.
+* Placeholder variables – input data to the graph.
+* Cost Measure – to optimize the variables.
+* Mathematical Formulas – for better convolutional network.
+* An optimization method which updates the variables.
          The TensorFlow graph executes much more efficiently than NumPy because the entire computational graph is known by TensorFlow graph whereas NumPy knows only the mathematical operation at a time. Variables to optimize and mathematical formulas like gradients are well known by TensorFlow graph.
